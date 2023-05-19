@@ -1,0 +1,9 @@
+w cima // 
+s baixo // 
+s baixo // 
+s baixo // 
+s baixo // 
+d direita // 
+s baixo // 
+s baixo // 
+s baixo // 

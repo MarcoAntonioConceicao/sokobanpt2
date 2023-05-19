@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1684508708 source:c:\users\conce\desktop\trabalhocodigo2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"rotinas.h"
+
+1684515827 c:\users\conce\desktop\trabalhocodigo2\rotinas.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
